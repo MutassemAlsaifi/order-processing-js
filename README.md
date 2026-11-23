@@ -34,8 +34,7 @@ The project contains three files:
 
 ## 4. Test Cases & Results
 
-I created three test cases to check how the function handles normal orders, invalid amounts, and missing or invalid order objects.
-
+I created three test cases in the `test.js` file to check how the function handles normal orders, invalid amounts, and missing or invalid order objects.
 ### Test 1 — Normal and Mixed Orders
 
 **Purpose:** To check whether the function calculates the total amount and count of paid orders while ignoring pending and cancelled orders.
